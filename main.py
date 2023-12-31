@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "Coloque Alguma API com tokens para funcionar"
 
 teste =[
     {"role": "system", "content": "Seja um bom assistente"},
